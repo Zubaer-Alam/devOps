@@ -11,5 +11,8 @@
     "url": "\u0016\u001b\u0016\u0016\u0016\u0016\u001b\u0016\u001b\u0016"
   },
   "author": "Zubaer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
