@@ -1,0 +1,15 @@
+{
+  "name": "app-name",
+  "version": "1.0.0",
+  "description": "SDA Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u001b\u0016\u0016\u0016\u0016\u001b\u0016\u001b\u0016"
+  },
+  "author": "Zubaer",
+  "license": "ISC"
+}
